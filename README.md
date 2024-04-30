@@ -207,4 +207,6 @@ openpyxl：3.0.3
 <img src="https://avatars.githubusercontent.com/u/12622452?s=400&u=193f3505e6df5d9a861e8bfc0c43b4abf5c6af2d&v=4" height="450px" width="400px"/>
 
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX3hBS0JSUmJEa2x5OXFjUGZaaERUZEFFUjJOaFRsMTF6RWdGYQ==#yeayee/joyful-pandas&Date" frameBorder="0"></iframe>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yeayee/joyful-pandas&type=Date)](https://star-history.com/#yeayee/joyful-pandas&Date)
