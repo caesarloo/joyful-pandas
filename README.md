@@ -1,6 +1,11 @@
 # ChatOCR  welcome to my site:
 https://intumu.com/chatgpt?stream=true
 
+WEB3  USDT 化缘地址：
+
+![06c81e1f85987614d857aaec11e7b0f](https://github.com/user-attachments/assets/1ddf7062-6bc3-498c-a97d-3485bc5150b2)
+
+
 # Joyful-Pandas
 
 【本教程与Pandas官方最新发行版本保持同步，当前版本：[v-1.0.3](<https://github.com/pandas-dev/pandas/releases>)】
